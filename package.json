@@ -1,0 +1,15 @@
+{
+  "name": "ecoquest-crystal-engine",
+  "version": "0.1.0",
+  "description": "EcoQuest: Guardians of Earth — Pokémon Crystal-style hybrid RPG engine",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step — open index.html directly or use Vite'",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "keywords": ["pokemon", "rpg", "pico8", "educational", "ecology", "emojis", "game"],
+  "author": "Mars (@Mellowambience)",
+  "license": "MIT",
+  "homepage": "https://eco-quest-guardians.base44.app"
+}
